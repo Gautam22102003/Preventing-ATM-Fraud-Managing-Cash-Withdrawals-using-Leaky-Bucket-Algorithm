@@ -1,0 +1,2 @@
+# Preventing-ATM-Fraud-Managing-Cash-Withdrawals-using-Leaky-Bucket-Algorithm
+A C-program implementing the Leaky Bucket Algorithm for ATM withdrawal rate limiting to prevent fraud. 🔹 Concept: Each user has a withdrawal bucket. The leak rate defines how often withdrawals are allowed (e.g., one transaction every 10 seconds). If too many withdrawals happen within a short time, further transactions are blocked temporarily.
